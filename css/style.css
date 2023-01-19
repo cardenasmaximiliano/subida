@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: cornflowerblue;
+}
+/* p{
+    color: green;
+} */
+/* p{
+    color: blue;
+}
+p{
+    color: rgb(52, 234, 155);
+} */
+
+/* 
+#pisarColor{
+    color: black;
+}
+.colorParrafo{
+    color: red;
+    
+}
+.colorSecundario{
+    color: blueviolet;
+}
+
+#soyUnId{
+    color: coral;
+}
+
+section{
+    color: red;
+}
+
+section p{
+    color: blue;
+}
+
+.section-dos{
+    color: coral;
+}
+
+.section-dos p{
+    color: green;
+}
+.div-container p{
+    color: pink;
+}
+ */
+
+ h1{
+    font-size: 20px;
+    font-weight:bold;
+    font-style: normal;
+    color: bisque;
+    /**text*/
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    text-decoration-style:wavy;
+    text-transform: capitalize;
+    text-shadow: -10px -5px 5px black;
+ }
+ p{
+    background-color: aquamarine;
+    text-indent: 20px;
+    letter-spacing: 4px;
+    line-height: 10px;
+    word-spacing: 5px;
+ }
+
+ .medida{
+    width: 100% ;
+    height:50px;
+    /* background-color: bisque; */
+    background-image: url("https://img.freepik.com/vector-gratis/coleccion-iconos-patas-gato_74855-5452.jpg?w=1380&t=st=1674090209~exp=1674090809~hmac=ca03a912d581b75f4af16d3d2b669c1b9a961068a9e434fa062b5d1c17c794ff");
+    background-position:center;
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+
+
